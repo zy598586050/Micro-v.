@@ -29,4 +29,8 @@
 ![image](http://7xowqs.com1.z0.glb.clouddn.com/%E7%94%B5%E8%AF%9D%E5%AF%B9%E5%AF%B9%E7%A2%B0.png)<br>
 ![image](http://7xowqs.com1.z0.glb.clouddn.com/%E8%81%8A%E5%A4%A9.png)<br>
 ![image](http://7xowqs.com1.z0.glb.clouddn.com/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99.png)<br>
+<br>
+邮箱：598586050@qq.com
+博客：http://www.zhangyubk.com
+简书：http://www.jianshu.com/users/8281d3837b16/latest_articles
 
