@@ -23,5 +23,9 @@
 2.想要从繁杂的信息洪流中解脱出来，专注于情感表达的人们。<br>
 3.想要以直观的形式了解社会情绪倾向的人们。<br>
 <br>
-![image](http://7xowqs.com1.z0.glb.clouddn.com/%E6%B5%B7%E6%8A%A5new.png)<br>
+![image](http://7xowqs.com1.z0.glb.clouddn.com/%E6%B5%B7%E6%8A%A5.png)<br>
 ![image](http://7xowqs.com1.z0.glb.clouddn.com/logo.png)<br>
+![image](http://7xowqs.com1.z0.glb.clouddn.com/%E5%9C%B0%E5%9B%BE.png)<br>
+![image](http://7xowqs.com1.z0.glb.clouddn.com/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99.png)<br>
+![image](http://7xowqs.com1.z0.glb.clouddn.com/%E8%81%8A%E5%A4%A9.png)<br>
+
