@@ -22,3 +22,6 @@
 1.想要沟通交流而又怯于在现实中表达的人们。<br>
 2.想要从繁杂的信息洪流中解脱出来，专注于情感表达的人们。<br>
 3.想要以直观的形式了解社会情绪倾向的人们。<br>
+<br>
+![image](http://7xowqs.com1.z0.glb.clouddn.com/%E6%B5%B7%E6%8A%A5new.png)<br>
+![image](http://7xowqs.com1.z0.glb.clouddn.com/logo.png)<br>
