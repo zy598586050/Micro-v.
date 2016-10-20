@@ -1,0 +1,43 @@
+PODS:
+  - Canvas (0.1.2)
+  - KGFloatingDrawer (0.2.0)
+  - Masonry (1.0.1)
+  - MJRefresh (3.1.9)
+  - MOBFoundation (2.0.3)
+  - RongCloudIMKit (2.4.0)
+  - ShareSDK3 (3.3.2):
+    - ShareSDK3/ShareSDK (= 3.3.2)
+  - ShareSDK3/ShareSDK (3.3.2)
+  - ShareSDK3/ShareSDKPlatforms/QQ (3.3.2)
+  - ShareSDK3/ShareSDKPlatforms/SinaWeibo (3.3.2)
+  - ShareSDK3/ShareSDKPlatforms/WeChat (3.3.2)
+  - ShareSDK3/ShareSDKUI (3.3.2)
+  - TZImagePickerController (1.5.0)
+
+DEPENDENCIES:
+  - Canvas (~> 0.1.2)
+  - KGFloatingDrawer (~> 0.2.0)
+  - Masonry
+  - MJRefresh
+  - MOBFoundation
+  - RongCloudIMKit (= 2.4.0)
+  - ShareSDK3
+  - ShareSDK3/ShareSDKPlatforms/QQ
+  - ShareSDK3/ShareSDKPlatforms/SinaWeibo
+  - ShareSDK3/ShareSDKPlatforms/WeChat
+  - ShareSDK3/ShareSDKUI
+  - TZImagePickerController
+
+SPEC CHECKSUMS:
+  Canvas: eb861e3b555d032648146c8ffda1a5dea40059ca
+  KGFloatingDrawer: b0c2810954bfb61f4d4dd01b8891d5c23933e368
+  Masonry: a1a931a0d08870ed8ae415a2ea5ea68ebcac77df
+  MJRefresh: c5f1f1653e5a1b932c90f78074f2bc86f3f9bd5e
+  MOBFoundation: 320f7c6a233f104b2d1960ca8e1e143eb47afb2b
+  RongCloudIMKit: c2cb0013452b98b38267d395b6155665344db96e
+  ShareSDK3: c76cb96eb38e079952b8157071486d945faa2df2
+  TZImagePickerController: d09eef6042852a9dd19224ae4e874f7430852a51
+
+PODFILE CHECKSUM: 5c5f79630775a6ddeb2524c5374fb60e4cd04c87
+
+COCOAPODS: 1.0.1
